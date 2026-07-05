@@ -1,0 +1,31 @@
+.section1 {
+  border: 2px solid black;
+  text-align: center;
+  background-color: rgb(179, 243, 222);
+  border-radius: 1rem;
+  margin: 2% 25% 0% 25%;
+}
+.banner {
+  background-image: url(../images/waterfall-thailand.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 300px;
+  width: auto;
+  margin-top: 0px;
+}
+h1 {
+  color: white;
+}
+button {
+  margin: 0.5rem;
+  border-radius: 0.5rem;
+  height: 30px;
+  background-color: black;
+  color: white;
+  font-weight: 700;
+}
+p {
+  color: rgb(3, 37, 68);
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 500;
+}
